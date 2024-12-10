@@ -1,0 +1,17 @@
+{
+    "weather":{
+        "Light rain shower" : {
+            "prompts" :[ "It’s wise to keep an umbrella close and stay aware of the changing weather. If you're heading outdoors, a rain jacket can come in handy, and you might want to adjust your plans if the rain intensifies.", "These showers can be brief or on-and-off, making it an ideal time to enjoy indoor activities with a view of the rain.","It’s perfect for indoor relaxation, keep a compact umbrella, enjoy the rain with a warm drink, and dress in layers for outdoor activities."]
+        },
+        "Moderate rain":{
+            "prompt_1":["Please bring a raincoat or sturdy umbrella is essential. And be extra careful during commutes, as reduced visibility and wet roads could cause delays. Later, this rain may ease into lighter showers.","Please Don’t forget to wear waterproof gear. Drive cautiously as visibility may decrease and roads could become slippery. For those working outdoors, plan for breaks to stay dry and warm." ,"Please carry an umbrella, drive carefully, and enjoy cozy indoor activities or waterproof shoes if you need to go out. "]
+        },
+        "Patchy rain nearby":{
+            "prompts":["You might also notice patchy rain nearby, with isolated drizzles sneaking in and out throughout the day.", "In some areas, there might be patchy rain nearby, so keep an eye out for those scattered showers.","Keep an umbrella handy, stay alert, reduce speed while driving, and find shelter if needed."]
+        },
+        "Sunny":{
+            "prompts":["Good news for today, there's also a chance for sunny moments to brighten your day.","Thankfully, there are breaks in the clouds too, with periods of sunny skies. Don’t forget your shades for those bright patches! And for some, the sunshine will linger, making it a lovely day outdoors.","There will be sunny breaks—remember sunscreen, grab sunglasses, stay hydrated, go for a walk, and enjoy the warmth while it lasts."]
+        }
+        
+    }
+}

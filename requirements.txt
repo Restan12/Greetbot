@@ -1,0 +1,5 @@
+gTTS
+pygame
+requests
+deep_translator
+dotenv

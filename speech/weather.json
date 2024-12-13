@@ -4,14 +4,50 @@
             "prompts" :[ "It’s wise to keep an umbrella close and stay aware of the changing weather. If you're heading outdoors, a rain jacket can come in handy, and you might want to adjust your plans if the rain intensifies.", "These showers can be brief or on-and-off, making it an ideal time to enjoy indoor activities with a view of the rain.","It’s perfect for indoor relaxation, keep a compact umbrella, enjoy the rain with a warm drink, and dress in layers for outdoor activities."]
         },
         "Moderate rain":{
-            "prompt_1":["Please bring a raincoat or sturdy umbrella is essential. And be extra careful during commutes, as reduced visibility and wet roads could cause delays. Later, this rain may ease into lighter showers.","Please Don’t forget to wear waterproof gear. Drive cautiously as visibility may decrease and roads could become slippery. For those working outdoors, plan for breaks to stay dry and warm." ,"Please carry an umbrella, drive carefully, and enjoy cozy indoor activities or waterproof shoes if you need to go out. "]
+            "prompts":["Please bring a raincoat or sturdy umbrella is essential. And be extra careful during commutes, as reduced visibility and wet roads could cause delays. Later, this rain may ease into lighter showers.","Please Don’t forget to wear waterproof gear. Drive cautiously as visibility may decrease and roads could become slippery. For those working outdoors, plan for breaks to stay dry and warm." ,"Please carry an umbrella, drive carefully, and enjoy cozy indoor activities or waterproof shoes if you need to go out. "]
         },
         "Patchy rain nearby":{
             "prompts":["You might also notice patchy rain nearby, with isolated drizzles sneaking in and out throughout the day.", "In some areas, there might be patchy rain nearby, so keep an eye out for those scattered showers.","Keep an umbrella handy, stay alert, reduce speed while driving, and find shelter if needed."]
         },
+        
+        "Patchy light rain":{
+            "prompts":["Scattered light rain may occur, so keep an umbrella handy and be prepared for quick changes.", "Scattered rain may come and go; keep an umbrella handy. This is a great day for a short, peaceful walk or indoor relaxation with a warm drink."]
+        },
+
+        "Heavy rain":{
+            "prompts":["Expect intense rainfall—carry waterproof gear, avoid flooded areas, and drive cautiously.","Intense rainfall is expected, so avoid outdoor plans and stay cautious on wet roads. It’s a perfect time to catch up on indoor tasks or enjoy a quiet day at home."]
+        },
+
+        "Torrential rain shower":{
+            "prompts":["Extremely heavy rain is expected; stay indoors if possible and watch for localized flooding.","Prepare for extremely heavy downpours and possible flooding. Limit travel and enjoy the cozy indoors with some calming music or a favorite book."]
+        },
+
+        
+        "Patchy light rain with thunder":{
+            "prompts":["Light rain with occasional thunder—stay alert for sudden weather changes and seek shelter during storms.","Occasional thunder may accompany light rain—stay indoors during storms for safety. Use the time to work on hobbies or organize your space."]
+        },
+
+        "Moderate or heavy rain with thunder":{
+            "prompts":["Strong rainfall with thunder—limit outdoor activities and ensure safety near windows.","Strong rain with thunder is in the forecast; avoid being outside during storms. It’s a good opportunity to relax and catch up on your favorite shows."]
+        },
+        
         "Sunny":{
             "prompts":["Good news for today, there's also a chance for sunny moments to brighten your day.","Thankfully, there are breaks in the clouds too, with periods of sunny skies. Don’t forget your shades for those bright patches! And for some, the sunshine will linger, making it a lovely day outdoors.","There will be sunny breaks—remember sunscreen, grab sunglasses, stay hydrated, go for a walk, and enjoy the warmth while it lasts."]
+        },
+        "Clear":{
+            "prompts":["Today's beautiful weather with clear skies, perfect for outdoor activities or a relaxing stroll.","A beautiful day with clear skies—great for outdoor activities like picnics, sports, or simply enjoying fresh air. Take a moment to appreciate the bright weather and soak up some sunshine."]
+        },
+
+        "Partly cloudy":{
+            "prompts":["A mix of sun and shade makes for great outdoor plans with less direct heat exposure."]
+        },
+        "Patchy light rain with sunshine":{
+            "prompts":["A mix of light rain and sunshine—carry an umbrella and enjoy the contrasting weather."," A mix of rain and sunshine adds variety to the day—carry an umbrella but enjoy the beauty of rainbows if you’re lucky! Use this time for photography or light outdoor activities."]
+        },
+        "Showers with sunny intervals":{
+            "prompts":["Expect alternating rain and sunshine, making it a great day for quick outdoor plans in between showers."," Alternating rain and sunshine create a dynamic day—perfect for quick outdoor plans or errands between showers. Be ready to pause and appreciate the bursts of sunlight."]    
         }
+
         
     }
 }
